@@ -24,4 +24,5 @@ This program only aims to train on GUI creation, to use external files, and to l
     
     - Close the program
     
+- the 'visu' file needs to be downloaded in the same repository as PWmanager.py, it contains visual files used in the GUI.
     
