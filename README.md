@@ -2,6 +2,7 @@
 A simple password manager, coded with python
 
 /!\ DO NOT USE THIS PASSWORD MANAGER /!\ 
+
 This program only aims to train on GUI creation, to use external files, and to learn more about encryption and digital security. 
 
 - As I am not a security expert, the cryption processes used in this program are not safe AT ALL.
